@@ -62,6 +62,18 @@ fruits.append(fruit)
 fruit = input("Enter a fruit: ")
 fruits.append(fruit)
 fruit = input("Enter a fruit: ")
+
+list1 = list()
+list2 =[]
+
+str1 = "abcd"
+str2 = ['a', 'b', 'c', 'd']
+
+리스트 슬라이싱
+[START:STOP:STEP]
+ex)[1:9:2] = 1,3,5,7
+
+t1 = tuple()
 fruits.append(fruit)
 print(fruits)
 print(fruits[0])
