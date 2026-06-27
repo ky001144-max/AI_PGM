@@ -62,6 +62,10 @@ fruits.append(fruit)
 fruit = input("Enter a fruit: ")
 fruits.append(fruit)
 fruit = input("Enter a fruit: ")
+fruits.append(fruit)
+print(fruits)
+print(fruits[0])
+print(fruits[-1])
 
 list1 = list()
 list2 =[]
@@ -74,7 +78,4 @@ str2 = ['a', 'b', 'c', 'd']
 ex)[1:9:2] = 1,3,5,7
 
 t1 = tuple()
-fruits.append(fruit)
-print(fruits)
-print(fruits[0])
-print(fruits[-1])
+
